@@ -3,18 +3,5 @@ title = "+022"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 ' त्रिकद्रुकेषु ' इति चतुर्ऋचमेकादशं सूक्तं गार्त्समदमैन्द्रम् । अत्रेयमनुक्रमणिका-' त्रिकद्रुकेषु चतुष्कमष्ट्याद्यतिशाक्वरमन्त्याष्टिर्वा ' इति । आद्यायामष्टिश्छन्दश्चतुःषष्ट्यक्षरा। अवशिष्टाः षष्ट्यक्षरा अतिशक्वर्यः । अन्त्याष्टिर्वा । षोडशिशस्त्रे ' त्रिकदुकेषु ' इति तृचः । सूत्रितं-' त्रिकद्रुकेषु महिषो यवाशिरं प्रो ष्वस्मै पुरोरथमिति तृचावातिच्छन्दसौ ' ( आश्व. श्रौ. ६. २) इति ।। अविवाक्येऽहनि मरुत्वतीये प्रतिपत्तृचस्य ' त्रिकद्रुकेषु ' इति प्रथमा । ' दशमेऽहनि ' इति खण्डे सूत्रितम्- ' आ त्वा रथं यथोतय इत्येतस्याः स्थाने त्रिकद्रुकेषु महिषो यवाशिरमिति ' ( आश्व. श्रौ. ८. १२) इति । आश्वमेधिके मध्यमेऽहनि मरुत्वतीय आद्या । ' तस्य विशेषान्वक्ष्यामः ' इति खण्डे सूत्रितं-' त्रिकद्रुकेषु महिषो यवाशिरमिति मरुत्वतीयस्य प्रतिपत् ' ( आश्व. श्रौ. १०. १०) इति ।। महाव्रतेऽपि माध्यंदिने सवने ब्राह्मणाच्छंसिनः स्तोत्रियस्तृचः । ' त्रिकद्रुकेषु महिषो यवाशिरमिति स्तोत्रियः ' (ऐ. आ. ५.१) इति सूत्रितम् ।।
-</details>
-
-<details><summary>Jamison Brereton</summary>
-
-22 (213)  
-Indra  
-Gr̥tsamada  
-4 verses: aṣṭi 1, atiśakvarī 2–3, atiśakvarī or aṣṭi 4  
-The theme of the hymn is the bond between Indra and the soma, which enables  Indra to perform “his great deed,” the destruction of the serpent, the “worm,”  Vr̥tra. The god Soma ever accompanies the god Indra, and the refrain running  through the first three verses emphasizes their connection by referring to Soma  as índu, “(soma-)drop,” echoing the name “Indra.” By describing both Soma and  
-
-Indra as “real” (satyá), the poet reminds his hearers that just as soma was real when  it was prepared by the gods for Indra before he destroyed Vr̥tra, so also it is real now  in the present sacrifice, as is Indra himself.
-</details>

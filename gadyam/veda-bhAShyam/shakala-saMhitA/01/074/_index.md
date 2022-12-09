@@ -3,23 +3,5 @@ title = "+074"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 त्रयोदशानुवाके एकादश सूक्तानि । तत्र ‘ उपप्रयन्तः' इति नवर्चं प्रथमं सूक्तम् । अत्रानुक्रम्यते-’ उपप्रयन्तो नव गोतमो राहूगणो गायत्रं तु ' इति । अस्यायमर्थः । रहूगणनामा कश्चिदृषिः । तस्य पुत्रो गोतमोऽस्य सूक्तस्य ऋषिः । ‘ गायत्रं तु इत्युक्तत्वादिदमुत्तरं च गायत्रीच्छन्दस्कम् । ‘ परमाग्नेयमैन्द्रात् ' इति परिभाषितत्वादग्निर्देवता । प्रातरनुवाकस्याग्नेये क्रतौ गायत्रे छन्दस्येतदादिके द्वे सूक्ते । सूत्रितं च- ‘ आपो रेवतीः क्षयथा हि वस्व उपप्रयन्त इति सूक्ते ' ( आश्व. श्रौ. ४. १३ ) इति । आश्विनशस्त्रेऽप्येते सूक्ते: प्रातरनुवाकन्यायेन ' ( आश्व. श्रौ. ६. ५ ) इत्यतिदेशात् । पृष्ठ्यषडहस्य प्रथमेऽहनि एतदेव सूक्तमाज्यशस्त्रम् । सूत्रितं च- ‘ उपप्रयन्त इति तु प्रथमेऽहन्याज्यम् ' ( आश्व. श्रौ. ७. १०) इति ॥
-</details>
-
-<details><summary>Jamison Brereton</summary>
-
-74  
-Agni  
-Gotama Rāhūgaṇa  
-9 verses: gāyatrī  
-The favor shown to the pious man by Agni is the theme of this short hymn. The  beneficiary of Agni’s patronage is identified as dāśvā́ṃs “pious” in verses 2, 8, and  9, and Agni’s activities on his behalf are the subject of the middle verses 4–5. These  
-
-activities are mostly the familiar ones, of serving as messenger between the mortal  and divine realms and going after the gods in order to bring them to the sacrifice  (see esp. vss. 4, 6–7), but Agni is also credited with aiding the pious man under  attack (vs. 2), leading to the god’s covert identification with Indra, via the epithet  “Vr̥tra-smasher” (vs. 3). Another unusual feature of this hymn is the appeal to what  “the people say” about Agni and his devotee (vss. 3, 5).
-</details>
-
-<details><summary>Jamison Brereton Notes</summary>
-
-Agni Several verses in this hymn are linked in relative cl. / main cl. structures: 1/2, 4/5. Vs. 6 may also be connected to 4/5. See disc. below.
-</details>

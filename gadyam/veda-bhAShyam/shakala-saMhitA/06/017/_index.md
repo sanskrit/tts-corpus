@@ -3,7 +3,6 @@ title = "+017"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 ॥ श्रीगणेशाय नमः ॥
 
@@ -12,20 +11,3 @@ title = "+017"
 निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
 
 चतुर्थाष्टके षष्ठोऽध्याय आरभ्यते । षष्ठे मण्डले द्वितीयेऽनुवाके प्रथमं सूक्तं व्याख्यातम् । तत्र ‘ पिबा सोमम् ' इति पञ्चदशर्चं द्वितीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभम् । अन्त्या द्विपदा त्रिष्टुप् । तथा चानुक्रान्तं--  पिब पञ्चोनैन्द्रं त्रैष्टुभं द्विपदान्तम्' इति । अभिजिति मरुत्वतीयशस्त्रे एतन्निविद्धानम्। सूत्रितं च- पिबा सोमं तमु ष्टुहीति मध्यंदिनः ' ( आश्व. श्रौ. ८. ५) इति । समूळ्हे दशरात्रेऽष्टमेऽहनि मरुस्वतीयशस्त्रे एतत्सूक्तम् । सूत्रितं च- ’ पिबा सोममभि तमस्य द्यावापृथिवी' (आश्व. श्रौ. ८. ७) इति । सूर्यस्तुन्नाम्न्येकाहे मरुत्वतीये एतत्सूक्तं निविद्धानम् । सूत्र्यते हि-’ सूर्यस्तुता यशस्कामः पिबा सोममभि' (अश्व. श्रौ. ९. ८) इति । महाव्रतेऽपि मरुत्वतीये एतत्सूक्तम् । तथैव पञ्चमारण्यके सूत्रितं- पिबा सोममभि यमुग्र तर्दः कया शुभा सवयसः सनीळाः ' ( ऐ. आ. ५. १. १) इति । माध्यंदिने सवने आद्यास्तिस्रो होतृमैत्रावरुणब्राह्मणाच्छंसिनां प्रस्थितयाज्याः । सूत्रितं च-’ पिबा सोममभि यमुग्र तर्द इति तिस्रोऽर्वाङेहि सोमकामं त्वाहुः' (आश्व. श्रौ. ५. ५) इति ॥ ।
-</details>
-
-<details><summary>Jamison Brereton</summary>
-
-17 (458)  
-Indra  
-Bharadvāja Bārhaspatya  
-15 verses: triṣṭubh, except dvipadā 15  
-This hymn is divided into two roughly equal parts, with the first devoted to the  Vala myth (vss. 2–6), the second to the Vr̥tra myth (vss. 8–12). The first verse  announces these two themes in order, allotting each a half-verse. The two mythic  segments are separated by a verse about Indra’s general cosmogonic deeds (7); the  last three verses (13–15) urge Indra to use the same powers to help the poet and  his patrons. The account of both narratives emphasizes the role of soma in rousing Indra  to his great deeds, and the hymn begins with three verses (1–3) with the insistent  imperative “drink!” The Vala myth is in fact configured as a model for Indra’s  behavior in the present with the mythic deeds presented as still to happen: he is  enjoined to drill through to the cattle pen (vss. 2, 3) and to disclose the sun (vs. 3).  The hymn thus appears to be associated with the activities at dawn. The Vr̥tra myth  is more consistently presented as a deed in the past (though see vss. 8, 11).
-</details>
-
-<details><summary>Jamison Brereton Notes</summary>
-
-Indra This hymn is marked by clusters of localized repetitions and echoes; see disc.
-
-below.
-</details>

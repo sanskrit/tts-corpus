@@ -3,27 +3,5 @@ title = "+170"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 ' विभ्राट् ' इति चतुर्ऋचमेकोनविंशं सूक्तं सूर्यपुत्रस्य विभ्राट्संज्ञकस्यार्षं  सूर्यदेवत्यम् । आदौ तिस्रो जगत्यः । द्व्यष्टकद्विद्वादशकवत्यास्तारपङ्क्तिश्चतुर्थी । तथा चानुक्रान्तं - ' विभ्राड्विभ्राट् सौर्यः सौर्यं जागतमास्तारपङ्क्त्यन्तम् ' इति । विषुवति निष्केवल्य आद्यस्तृचः  स्तोत्रियः । सूत्रितं च --' विभ्राड्बृहत्पिबतु सोम्यं मधु नमो मित्रस्य वरुणस्य चक्षस इति स्तोत्रियानुरूपौ ' ( आश्व. श्रौ. ८. ६) इति । वाजपेयेऽतिरिक्तोक्थस्य विभ्राडित्येषा  शस्त्रे याज्या । सूत्र्यते हि -' विभ्राड्बृहत्पिबतु सोम्यं मध्विति याज्या तस्य गवां शतानाम् ' ( आश्व. श्रौ. ९.९) इति ।।
-</details>
-
-<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
-
-The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1. This sUktaM is noteworthy in some other respects:
-
-1) It uses the word bhrAjaH which corresponds to the name of one of the divAkIrtya-s.
-2) Prominent words in this sUktaM like s \[vi\]bhrAT, bhrAjaH, jyotiH, divaH, ayuH, satya, dharman occur as \[or as parts of\] the magical stobhas of the divAkIrtya-s.
-3) This is one of those relatively few mantra-s to the sun \[sUrya\] in the RV.
-4) It has the word asura in a negative connotation– such a negative usage of asura is rare in the RV and occurs elsewhere in the context of sUrya and the eclipse (svarbhAnu is also called asura).
-</details>
-
-
-<details><summary>Jamison Brereton</summary>
-
-170 (996)  
-Sūrya  
-Vibhrāj Saurya  
-4 verses: jagatī, except āstārapaṅkti 4  
-This hymn celebrates the god Sun, or more specifically his light, in terms more usu ally applied to heroic warrior-gods like Indra.
-</details>

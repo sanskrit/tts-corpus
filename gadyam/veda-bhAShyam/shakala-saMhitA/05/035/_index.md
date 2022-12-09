@@ -3,21 +3,5 @@ title = "+035"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 यस्ते साधिष्ठः' इत्यष्टर्चं तृतीयं सूक्तम् । अङ्गिरोगोत्रः प्रभूवसुर्नाम ऋषिः । अन्त्या पङ्क्तिः । पङ्क्त्यन्तपरिभाषया शिष्टा अनुष्टुभः । इन्द्रो देवता । ' यस्तेऽष्टौ प्रभूवसुराङ्गिरसः पङ्क्त्यन्तम् ' इत्यनुक्रान्तम् । सूक्तविनियोगो लैङ्गिकः । आभिप्लविकेषूक्थ्येषु तृतीयसवने आद्यस्तृचोऽच्छावाकस्य वैकल्पिकोऽनुरूपः । सूत्रितं च -- यस्ते साधिष्ठोऽवसे पुरां भिन्दुर्युवा कविः ' ( आश्व. श्रौ. ७. ८) इति । द्वितीयतृतीययोः स्वरसाम्नोश्चाद्यौ तृचावनुरूपौ। “यस्ते साधिष्ठोऽवस इति षळनुष्टुभः ' ( आश्व. श्रौ. ८. ५) इति हि सूत्रितम् ॥
-</details>
-
-<details><summary>Jamison Brereton</summary>
-
-35 (389)  
-Indra  
-Prabhūvasu Āṅgirasa  
-8 verses: anuṣṭubh, except paṅkti 8  
-A simple hymn calling on Indra for help, the word that provides the outer skeleton  of the hymn: forms of the root “help” (√av) as noun or verb are found in the first  three verses and the last two (7–8). The interior verses (4–6) simply provide conven tional praise of Indra’s powers.
-</details>
-
-<details><summary>Jamison Brereton Notes</summary>
-
-Indra
-</details>

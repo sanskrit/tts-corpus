@@ -3,16 +3,5 @@ title = "+153"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 ‘ईङ्खयन्तीः' इति पञ्चर्चं गायत्रमैन्द्रं द्वितीयं सूक्तम् । देवानां स्वसृभूता इन्द्रमातरो नामर्षिकाः । तथा चानुक्रान्तम्--- ईङ्खयन्तीर्देवजामय इन्द्रमातरो गायत्रम्' इति । द्वितीये पर्याये प्रशास्तुः शस्त्र इदं सूक्तम् । सूत्रितं च -- ईङ्खयन्तीरहं दां पाता सुतम्' (आश्व. श्रौ. ६. ४) इति (सूत्रितं च -- ईंखयंतीरपस्युव इति ब्राह्मणाच्छंस्यावपेत (ऐ. आ. ५. १. १) इति पाठभेदः)। महाव्रतेऽपि प्रातः सवनिके ब्रह्मशस्त्र एतत्सूक्तम् ॥
-</details>
-
-<details><summary>Jamison Brereton</summary>
-
-153 (979)  
-Indra  
-Devajāmaya Indramātaraḥ  
-5 verses: gāyatrī  
-The first verse of this hymn presents a tender image of unidentified females rocking  the baby Indra, and verse 2 continues with a more conventional treatment of his  birth. But the birth motif disappears (except for an attenuated version in vs. 5c): the  hymn then continues with standard praise of his powers—the word ójas “might” is  positioned prominently in four of the five verses (2–5).
-</details>

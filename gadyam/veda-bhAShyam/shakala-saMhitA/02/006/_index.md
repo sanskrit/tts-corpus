@@ -3,21 +3,5 @@ title = "+006"
 
 +++
 
-<details><summary>सायण-भाष्यम्</summary>
 
 ' इमा मे ' इत्यष्टर्चं षष्ठं सूक्तं सोमाहुत्यार्षमाग्नेयं गायत्रम् । ' इमां मे गायत्रं हि ' इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छन्दस्यस्य विनियोगः । सूत्रितं च - ' इमां मे अग्ने समिधमिमामिति त्रयाणामुत्तमामुद्धरेत् ' (आश्व श्रौ. ४. १३) इति । अपराह्णिक्यामुपसदि 'इमां मे अग्ने समिधम्' इति तिस्र ऋचस्त्रिरभ्यस्ता नव सामिधेन्यः कृत्वा विनियोक्तव्याः । ' अथोपसत् ' इति खण्डे सूत्रितम्- ' इमां मे अग्ने समिधमिमामिति तु सामिधेन्यः ' ( आश्व श्रौ. ४. ८) इति ।।
-</details>
-
-<details><summary>Jamison Brereton</summary>
-
-6 (197)  
-Agni  
-Somāhuti Bhārgava  
-8 verses: gāyatrī  
-There is nothing particularly striking in this hymn, which treats the usual themes  of our ritual service to Agni and the rewards we expect in turn. But it is deftly done and economically expressed in the short gāyatrī meter, with patterned repetitions  perceptible even in translation (see, e.g., vss. 1, 3, 5). The final two verses present  the common image of Agni as envoy and messenger between the human and divine  worlds.
-</details>
-
-<details><summary>Jamison Brereton Notes</summary>
-
-Agni
-</details>
