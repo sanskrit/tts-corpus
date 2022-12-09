@@ -3,12 +3,6 @@ title = "030 यथा र्तु-लिङ्गान्य्"
 
 +++
 
-<details><summary>गङ्गानथ-मूलानुवादः</summary>
-
-Just as on the approach of the turn of the Seasons, each season, by itself, acquires its own seasonal characteristics,—so in the same manner living beings take up their respective lines of action.—(30)
-</details>
-
-<details><summary>मेधातिथिः</summary>
 
 अत्र दृष्टान्तः । अचेतना अपि यथा भावास् तन्मर्यादयैव व्यवस्थितस्वभावाः एवं चेतना अपि पुरुषकृतकर्मसहायेन प्रजापतिना कृतां मर्यादां नातिक्रामन्ति, यस्यां जातौ जातास् तद् एव कुर्वन्ति नान्यद् इच्छन्तो ऽपि शक्नुवन्ति कर्तुम् । 
 
@@ -27,38 +21,3 @@ Just as on the approach of the turn of the Seasons, each season, by itself, acqu
 - (१.२९) कर्माणीष्टानिष्टफलप्रदानि विधिप्रतिषेधविषयाणि । कर्माणि द्विश उदाहरति । **हिंस्राहिंस्रे** इति । हिंसा प्रतिषिद्धा । तस्या नरकादिफलप्रदानं नियमितम् । यो ब्राह्मणायावगुरेत् यो मामकायावगुरेत् तं शतेन यातयाद् इति वाक्यशेषेभ्यः । सा ततः स्वभावान् न च्यवते । प्रायश्चित्तेषु विशेषं वक्ष्यामः । अहिंस्रं विहितम् । तस्यापि नेष्टफलदानात् स्वभावच्युतिर् अस्ति । धर्माधर्मयोर् एव विशेषायते । विहितं कर्म धर्मः, प्रतिषिद्धम् अधर्मः, तयोर् विशेषाः सत्यानृतादयः । सत्यं विहितम् अनृतं प्रतिषिद्धम् । एवं सर्वाणि पूर्वोत्तरपदानि विहितप्रतिषिद्धविशेषप्रदर्शनानि । 
 
 - (१.३०) अव्यभिचरितदृष्टकार्यकारणसंबन्धीनि कर्माणि । दृष्टान्तः **यथर्तुलिङ्गानी**ति । शेषं समानम् ॥ १.३० ॥
-</details>
-
-<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
-
-In support of what has been said in the foregoing verses, an
-illustration is cited. Just as even inanimate things have their
-character fixed by the law of God,—so animate beings also do not go
-beyond the law laid down by Prajāpati, in accordance with the past acts
-of men; they have recourse to that same line of action which has been
-assigned to the family of beings in which they are born; any other line
-of action they cannot take up, even though they may wish to do so.
-
-‘*The seasons*’—Spring and the rest;—‘*its own seasonal
-characteristics*’—in the form of leaves, flowers, cold, heat, rain and
-so forth.—‘*at the approach of the turn*’—when the *turn*, the occasion
-for functioning, of a particular season arrives,—that season acquires
-its character, by itself; and it does not stand is need of any act of
-man. For instance, at the advent of spring, mango-blossoms bloom forth
-by themselves, and they, do not stand in need of watering at the roots.
-In the same manner the ‘lines of action’ of men—which exist in their
-‘unseen’ or latent form—\[operate by themselves\]. As a matter of fact,
-there is no such thing as is not affected by the ‘acts’ (of men); for
-instance, it is in the nature of the Rainy Season that there should be
-rain, and yet on account of the faulty action, either of the king or
-kingdom itself, there is sometimes drought. From all this it follows
-that the force of ‘action’ is irrepressible.
-
-The frequent repetition of the term ‘*ṛtu*’ season,’ is due to the
-exigencies of metre.
-</details>
-
-<details><summary>Bühler</summary>
-
-030	As at the change of the seasons each season of its own accord assumes its distinctive marks, even so corporeal beings (resume in new births) their (appointed) course of action.
-</details>

@@ -3,12 +3,6 @@ title = "246 क्षेत्रं हिरण्यम्"
 
 +++
 
-<details><summary>गङ्गानथ-मूलानुवादः</summary>
-
-Joyfully bringing to the teacher, a field, or gold, or a cow, or a horse, or at least an umbrella and a fair of shoes, grain, vegetables or clothes.—(246)
-</details>
-
-<details><summary>मेधातिथिः</summary>
 
 [^५९२]:
      M G: āvahet
@@ -42,66 +36,3 @@ Joyfully bringing to the teacher, a field, or gold, or a cow, or a horse, or at 
 
 [^५९३]:
      M G: pūrvaṃ saṃbandhaḥ
-</details>
-
-<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
-
-It has been said that he should present something to the Teacher; and
-the present verse shows that any and everything should not be presented;
-the sense being that if the Teacher orders—‘bring me the wife of such
-and such a person,’ or ‘let me have all that you possess,’—then the
-pupil shall not do what he says; what he should givo are as
-fellows,—‘*Field*’—agricultural land;—‘*Gold*.’
-
-‘*Or*’—signifies option; the sense being that all the things mentioned
-shall not be given.
-
-‘*Or at least*,’—*i.e*., in the absence of the other things.
-
-‘*An umbrella and a pair of shoes*’;—these two being mentioned in a
-copulative compound, it follows that both together have to be given.
-
-‘*Clothes*;’—no significance is meant to be attached to the nouns in
-this passage.
-
-‘*Bringing joyfully*’;—this has to be construed with ‘*should present*,’
-(of the preceding verse). If, however, we read this as ‘*prītimāharet*,’
-‘should bring pleasure to his Teacher,’—then this sentence becomes
-self-contained. ‘*Prītimāvahet*’ is another reading; the sense being
-tbat ‘he should present the grain, etc., for bringing pleasure to the
-Teacher’: or the *pleasure* may by itself be regarded as the object to
-be brought to the Teacher: and in that case the mention of the things
-becomes purely suggestive; the sense being that other things likely to
-give him pleasure,—such as gems, pearls, corals, elephants, mules,
-chariots, etc.,—may also be given. To this effect we have the saying of
-Gautama (2.48)—‘On the completion of study the Teacher should be
-presented with something useful.’
-
-Only such things have to be presented as the pupil happens to possess,
-he should not go about obtaining things by begging and other means, for
-presenting.—(246)
-</details>
-
-<details><summary>गङ्गानथ-टिप्पन्यः</summary>
-
-This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 178), which adds
-that what is meant is that if possible, the best articles should be
-presented;—in *Saṃskāraratnamālā* (p. 368), which adds the following
-notes:—‘*Kṣetram*,’ field with corns standing,—the umbrella and shoes,
-should both go together, such being the sense of the
-compounding,—‘*Vāsāṃsi*’ *three* pieces of cloth,—‘*gurave
-prītimāvahan*,’ the ‘completion of the study should be done only when
-the Teacher permits it’;—also in *Nṛsiṃhaprasāda* (Saṃskāra, p. 48a).
-</details>
-
-<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
-
-*Vyāsa* (Vīramitrodaya-Saṃskāra, p. 574).—‘Having completed his study,
-the pupil should with bis permission take the Bath, after having offered
-to him a cow as his fee.’
-</details>
-
-<details><summary>Bühler</summary>
-
-246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
-</details>

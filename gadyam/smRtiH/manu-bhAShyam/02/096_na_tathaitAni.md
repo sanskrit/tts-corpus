@@ -3,12 +3,6 @@ title = "096 न तथैतानि"
 
 +++
 
-<details><summary>गङ्गानथ-मूलानुवादः</summary>
-
-These (organs), being contaminated with objects, are not capable of being subjugated by mere abstinence, as they are by ever present knowledge.—(90)
-</details>
-
-<details><summary>मेधातिथिः</summary>
 
 [^२९०]:
      M G J all read: prajuṣṭāni; but Medh's commentary clearly presupposes praduṣṭāni
@@ -46,67 +40,3 @@ These (organs), being contaminated with objects, are not capable of being subjug
 
 [^२९१]:
      J: prāptam |
-</details>
-
-<details><summary>गङ्गानथ-भाष्यानुवादः</summary>
-
-“Well, if this is so, then the right course, would appear to be that one
-should retire to the forest; as there will be no objects within reach;
-and being beyond reach, they would naturally never be sought
-after.”—With a view to such notions, the text adds that the organs
-should not be subjugated by mere abstinence; as in that case the man
-would have no pleasures at all, while the *Smṛti* has distinctly
-declared that—‘Acquiring merit, wealth and pleasures, one should see
-that his mornings, mid-days and evenings are not useless’ (*Gautama*,
-9.46); and further, the continuance of the body itself would become
-impossible, by total abstinence. What therefore is meant is to prohibit
-excessive longing; and even though one may enjoy pleasures, this
-excessive longing ceases under the influence—(*a*) of ‘*knowledge*,’ of
-defects in the objects, as described in the scriptures, such for
-instance as in 6.76 below,—(*b*) of one’s own experience, whereby the
-said pleasures are found to be unpleasant in their consequences,—and
-(*c*) of the constant and gradual practice of nonattachment arising from
-the due examination of the effects of the pleasures. It is not possible
-for the said longing to be renounced all at once..
-
-‘*Ever present*’;—this qualifles ‘*knowledge*.’
-
-‘*Contaminated*’—active, since objects are beset with defects, the
-addiction to them is called ‘contamination.’
-
-The ‘*śas*’ used here is one that is frequently used by Vyāsa, Manu and
-other great sages,—in such expressions as‘*nityaśaḥ*,’ ‘*anupūrvaśaḥ*,’
-‘*sarvaśaḥ*,’ ‘*pūrvaśaḥ*,’ and so forth. But exceptional efforts have
-to be made in order to establish the correctness of such usage. And in
-as much as the rule regarding the use of the affix ‘*śas*’ as laid down
-in *Pāṇini* 5. 4. 43, is that *it is added to singular nouns, in the
-sense of repetition*,—it is necessary to make the words in question
-imply, somohow or other, the notion of *repetition*. Other people have
-explained the expression ‘ś *as*’ as a noun formed from the root ‘*ś*
-*as*’ to stand, with the affix ‘*kvip*’; and the word thus formed would
-be neuter and would be treated as an adverb, the meaning being—‘*by
-knowledge which is ever-standing*.’—(96)
-</details>
-
-<details><summary>गङ्गानथ-टिप्पन्यः</summary>
-
-‘*Asevayā*”—‘avoidance of excessive longing for pleasures’—(Medhātithi);
-‘avoidance of places where pleasures are to be obtained’
-(Kullūka);—‘abstinence from pleasures’ (Govindarāja, Nārāyaṇa and
-Nandana).
-
-This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
-</details>
-
-<details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
-
-*Śaṅkha-smṛti* (7. 10-11).—‘That man the Gods regard as a Brāhmaṇa, who
-is disgusted with birth, with death and with mental and physical
-ailments. The impurity of the body, the reversal of pleasure and pain,
-residence in the womb,—from all this one becomes freed.’
-</details>
-
-<details><summary>Bühler</summary>
-
-096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
-</details>
