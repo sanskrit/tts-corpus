@@ -26,6 +26,6 @@ title: ०५-०१ ब्राह्मणीनकुलकथा
 
   ब्राह्मण आह-किम् एतत् ?  
 
-  सा प्राह- +++(सम्पादकटिप्पनी- पुस्तकेऽत्रायमधिकः पाठः ।)+++
+  सा प्राह- 
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../05-02_lObhAviShTachakradharakathA/"></div>
