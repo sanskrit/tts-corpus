@@ -1,0 +1,6 @@
++++
+title = "21 हृषीकेशन् तदा"
+
++++
+।।1.21।। Sri Sankaracharya did not comment on this sloka.  
+  

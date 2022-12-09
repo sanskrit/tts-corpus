@@ -1,0 +1,5 @@
++++
+title = "25 दंष्ट्राकरालानि च"
+
++++
+।।11.25।। Sri Madhvacharya did not comment on this sloka.,

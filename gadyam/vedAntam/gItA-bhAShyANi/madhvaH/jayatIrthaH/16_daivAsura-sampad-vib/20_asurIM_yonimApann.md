@@ -1,0 +1,6 @@
++++
+title = "20 असुरीं योनिमापन्ना"
+
++++
+।।16.20।। Sri Jayatirtha did not comment on this sloka.  
+  

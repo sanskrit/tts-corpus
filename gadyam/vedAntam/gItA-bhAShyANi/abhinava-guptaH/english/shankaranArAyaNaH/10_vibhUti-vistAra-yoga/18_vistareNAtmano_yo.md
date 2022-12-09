@@ -1,0 +1,5 @@
++++
+title = "18 विस्तरेणात्मनो योगम्"
+
++++
+10.18 Sri Abhinavagupta did not comment upon this sloka.

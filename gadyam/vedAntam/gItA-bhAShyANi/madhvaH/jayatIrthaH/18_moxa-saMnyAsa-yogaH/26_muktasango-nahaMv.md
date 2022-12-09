@@ -1,0 +1,6 @@
++++
+title = "26 मुक्तसङ्गोऽनहंवादी"
+
++++
+।।18.26।। Sri Jayatirtha did not comment on this sloka.  
+  

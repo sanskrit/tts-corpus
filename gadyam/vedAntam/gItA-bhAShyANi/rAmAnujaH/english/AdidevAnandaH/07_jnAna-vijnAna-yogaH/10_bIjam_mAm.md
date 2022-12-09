@@ -1,0 +1,8 @@
++++
+title = "10 बीजम् माम्"
+
++++
+7.8 - 7.11 All these entities with their peculiar characteristic are
+born from Me alone. They depend on Me; inasmuch as they constitute My
+body, they exist in Me alone. Thus I alone exist while all of them are
+only My modes.

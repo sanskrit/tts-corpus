@@ -1,0 +1,5 @@
++++
+title = "47 श्री भगवानुवाच"
+
++++
+।।11.47।। Sri Madhvacharya did not comment on this sloka.,

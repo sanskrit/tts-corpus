@@ -1,0 +1,5 @@
++++
+title = "13 अप्रकाशोऽप्रवृत्तिश्च"
+
++++
+।।14.13।। Sri Madhvacharya did not comment on this sloka.,
