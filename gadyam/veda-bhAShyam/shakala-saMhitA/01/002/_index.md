@@ -1,0 +1,78 @@
++++
+title = "+002"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अग्निमीळे ' इत्यादिसूक्तमग्निष्टोमस्य प्रातरनुवाके यथा (शस्त्रे) विनियुक्तं तथा ' वायवा याहि ' इत्यादयस्तृचाः प्रउगशस्त्रे विनियुक्ताः । तत्रेदं चिन्त्यते, शस्त्रं किं देवतास्मरणरूपसंस्कारकर्म किं वा अदृष्टफलं प्रधानकर्मेति । तत्र पूर्वपक्षं जैमिनिः ( जै. सू. २. १. १३-२९) सूत्रयामास-
+
+' स्तुतशस्त्रयोस्तु संस्कारो याज्यावद्देवताभिधानत्वात् ' इति ।। ' आज्यैः स्तुवते पृष्ठैः स्तुवते प्रउगं शंसति निष्केवल्यं शंसति ' इति श्रूयते । तत्र स्तुतिः शंसनं च गुणिनिष्टगुणाभिधानम् ' इन्द्रस्य नु वीर्याणि प्र वोचम् ( ऋ सं. १. ३२. १) इत्यत्र दृष्टत्वात् । एवं सति याज्यान्यायेन गुणिन्या देवताया अभिधायकत्वेन स्तुतशस्त्रयोः संस्काररूपत्वमभ्युपेयम् । याज्यायास्तद्रूपत्वं दशमाध्यायस्य चतुर्थपादे ( जै. सू. १०. ४ ३९-४१) दृष्टार्थलाभेन निर्णीतम् । तद्वदत्रापि । तुशब्दः प्रधानकर्मत्वं व्यावर्तयति ।। सिद्धान्ती तं पक्षं दूषयति-
+
+' अर्थेन त्वपकृष्येत देवतानाम्नश्चोदनार्थस्य गुणभूतत्वात् ' इति । तुशब्देन संस्कारत्वं वारयति संस्कारपक्षे प्रयोजनवशेन मन्त्रः स्वस्थानादपकृष्येत । कुतः । मन्त्रगतं देवतावाचकं यदिन्द्रादिनामास्ति तच्चोदनया मन्त्ररूपया प्रतिपाद्य देवतारूपभ्यार्थस्य गुणभूतम् । तस्मात् यत्र प्रधानभूतदेवतास्ति तत्र गुणभूतो मन्त्रो नेतव्यः । तद्यथा माहेन्द्रग्रहसंनिधौ ' अभि त्वा शूर ' ( ऋ. सं. ७. ३२. २२) इत्ययं
+प्रगाथ आम्नातः । स चेन्द्रं प्रकाशयति न तु महेन्द्रम् । ततो यत्रैन्द्रं कर्म तत्रायं प्रगाथोऽपकर्षणीयः । तथा सति क्रमसंनिधी वाध्येयाताम् ।। तदेतत् सिद्धान्तिनाभिहितं दूषणं पूर्वपक्षी समाधत्ते--
+
+वशावद्वा गुणार्थं स्यात् ' इति । वाशब्दः प्रगाथस्यान्यत्रनयनं वारयति । मन्त्रे यदेतदिन्द्रशब्दाभिधानं तदेतन्महत्वगुणोपलक्षणार्थं स्यात् । यथा ' सा वा एषा सर्वदेवत्या यदजा वशा
+
+वायव्यामा लभेत ' ( तै. सं. ३. ४. ३. २) इत्यत्र अजावशाशब्देन चोदिते कर्मणि छागशब्देन केवलेन युक्ता निगमा वशात्वगुणमप्युपलक्षयन्ति तद्वत् । तस्मात् महत्त्वगुणयुक्ते चोदिते कर्मणि निर्गुणेनेन्द्रशब्देनाभिधानमविरुद्धम् । लोकेऽपि महाराजे केवलराजशब्दप्रयोगमपि पश्यामः । तदेतत् समाधानं सिद्धान्ती दूषयति-
+
+' न श्रुतिसमवायित्वात् ' इति । यदुक्तं वशान्यायेन राजन्यायेन वास्य ग्रहस्यैन्द्रो देवता युज्यते इति तन्न । देवतात्वस्य तद्धितश्रुतिसमवायित्वात् । माहेन्द्रग्रह इत्यत्र सास्य देवतेत्यस्मिन्नर्थे ' महेन्द्राद्धाणौ च ' ( पा. सू. ४. २. २९) इति महेन्द्र्शब्दात् अण्प्रत्ययो विहितः । तस्मात् महेन्द्र एव देवता न त्विन्द्रः ।। विपक्षे बाधमाह-
+
+' गुणश्चानर्थकः ' डति । यदीन्द्रो देवता स्यात् तदानीम् ऐन्द्रग्रह इत्येतावतैव अर्थावगतौ माहेन्द्र इति महत्त्वगुणोऽनर्थकः स्यात । चकारः पूर्वहेतुना समुच्चयार्थः ।। हेत्वन्तरमाह-
+
+' तथा याज्यापुरोरुचोः ' इति । इन्द्रमहेन्द्रयोर्देवतयोर्भेदे यथा महत्वगुणः सार्थकस्तथा याज्या- पुरोनुवाक्ययोर्भेदोऽप्यस्मिन्नेव पक्षे उपपद्यते । ' एन्द्र सानसिम् ' ( ऋ. सं. १. ८. १) इत्यादिके इन्द्रस्य याज्यापुरोनुवाक्ये । ' महाँ इन्द्रो य ओजसा ' ( ऋ सं. ८. ६. १) इत्यादिके महेन्द्रस्य ।।
+पूर्वपक्षिणोक्ते वशादृष्टान्ते वैषम्यमाह-
+
+' वशायामर्थसमवायात् ' इति । या वशा विधिवाक्ये श्रुता तस्या एव निगमेषु छागशब्देन व्यवहारो न विरुद्धः । छागत्वलक्षणस्यार्थस्य वशायां समवेतत्वात् । तच्च प्रत्यक्षेणोपलभ्यते । इन्द्र-महेन्द्रयोस्तु भेद उपपादितः । तस्मात् विषमो दृष्टान्तः । एवं संस्कारपक्षे प्रगाथस्यैन्द्रकर्मण्यपकर्षप्रसङ्गात् तद्वारयितुं स्तोत्रशस्त्रयोः प्रधानकर्मत्वमिति सिद्धान्तिनो मतम् ।। पुनरपि पूर्वपक्षी तदेतन्मतं
+निराचष्टे--
+
+‘यत्रेति वार्थवत्त्वात्स्यात्  ' इति । वाशब्दः सिद्धान्तिमतव्यावृत्यर्थम् । यत्रैन्द्रं कर्म तत्र प्रगाथो नेतव्य इत्ययमेव पक्षः स्यात् । कुतः, अर्थवत्त्वात् । ऐन्द्रो मन्त्र इन्द्र प्रकाशयितुं समर्थ इत्यर्थवान् स्यात् । महेन्द्रं तु प्रकाशयितुमसमर्थत्वादानर्थक्यं प्रगाथस्य प्रसज्येत । तस्मात् देवताप्रकाशनरूपसंस्कारकर्मत्वमेव स्तोत्रशस्त्रयोर्युक्तमिति स्थितः पूर्वपक्षः ॥ अथ सिद्धान्तमाह –
+
+अपि वा श्रुतिसंयोगात्प्रकरणे स्तौतिशंसती क्रियोत्पत्तिं विदध्याताम्' इति । 'अपि वा । इत्यनेन संस्कारकर्मत्वं व्यावर्त्यते । स्तौतिधातुः शंसतिधातुश्चेत्येतावुभावपि स्वप्रकरणे एव कस्याश्चित् प्रधानक्रियाया उत्पत्तिं विदध्याताम् । कुतः, श्रुतिसंयोगात्। तयोर्धात्वोर्वाच्योऽर्थः श्रुतिरित्युच्यते । तस्संयोगः प्रधानकर्मत्वे सिध्यति । तथा हि गुणिनमुपसर्जनीकृत्य तन्निष्टानां गुणानां प्राधान्येन कथनं स्तुतिः । यो देवदत्तः स चतुर्वेदाभिज्ञ इत्युक्ते सर्वे जनाः स्तुतिमवगच्छन्ति । गुणस्योपसर्जनत्वे तु न स्तुतिः प्रतीयते ।  यश्चतुर्वेदाभिज्ञस्तमाकारय ' इत्युक्ते स्तुतिं न मन्यन्ते किंत्वाह्वानप्राधान्यमेव बुध्यन्ते । एवं मन्त्रेष्वपि या देवता सेयमीदृशैर्गुणैरुपेतेति गुणप्राधान्यविवक्षायां मुख्यः स्तौतिधात्वर्थो विधीयते । त्वत्पक्षे तु येयमीदृग्गुणयुक्ता सेयं देवतेति देवतास्मरणस्य प्राधान्यादियं स्तुतिर्न स्यात्। ततः श्रुतिवशादेते प्रधानकर्मणी । तथा सति देवताप्रकाशने तात्पर्याभावात् ऐन्द्रोऽपि प्रगाथः स्वप्रकरणगते माहेन्द्रकर्मण्येवावतिष्ठते । यदि देवतास्मरणरूपं दृष्टं प्रयोजनं न लभ्येत तर्ह्यदृष्टमस्तु ॥ प्रधानकर्मत्वे हेत्वन्तरमाह---
+
+'शब्दपृथक्त्वाच्च' इति । द्वादशाग्निष्टोमस्य स्तोत्राणि द्वादश शस्त्राणि ' इत्यत्र द्वादशशब्देन स्तोत्राणां पृथक्त्वमवगम्यते । देवताप्रकाशनपक्षे सर्वैरपि मन्त्रसंघैः कृतस्य प्रकाशनस्यैकत्वेन द्वादशसंख्या न स्यात् । प्रधानकर्मणां तु आज्यस्तोत्रपृष्ठस्तोत्रादिनामकानां भिन्नत्वात् द्वादशत्वसंख्योपपद्यते ।। एवं शस्त्रवाक्येऽपि योज्यम् ॥ विपक्षे बाधमाह
+
+‘अनर्थकं च तद्वचनम् ' इति । अग्निष्टुति श्रूयते- आग्नेया ग्रहा भवन्ति' इति । तत्रैव पुनरप्यन्यदुच्यते-आग्नेयीषु स्तुवते । आग्नेयीः शंसन्ति' इति । त्वत्पक्षे तद्वचनमनर्थकं स्यात् ।। चोदकप्राप्तेषु स्तोत्रशस्त्रमन्त्रेष्वाग्नेयग्रहानुसारेण देवतापदस्य ऊहे सति आग्नेयत्वसिद्धेः । प्रधानकर्मपक्षे तु देवताप्रकाशनरूपस्वाभावेन ऊहाभावात् आग्नेयमन्त्रान्तरविधिवचनमर्थवद्भवति ॥ पुनरपि हेत्वन्तरमाह----
+
+‘अन्यश्चार्थः प्रतीयते ' इति । ‘संबद्धे वै स्तोत्रशस्त्रे' इति ह्याम्नातम् । संबन्धश्च द्वयोर्भवति न त्वेकस्य । तस्मात् स्तोत्रशस्त्रयोरर्थभेदः प्रतीयते । स च संस्कारपक्षे न संभवति । देवताप्रकाशनरूपस्यार्थस्यैकत्वात् । प्रधानकर्मपक्षे तु स्तोत्रकर्म शस्त्रकर्म चेत्यर्थभेद उपपद्यते । यद्यपि ‘ष्टुञ् स्तुतौ '; ‘शंसु स्तुतौ ' इत्येकार्थौ, तथापि ‘प्रगीतमन्त्रसाध्यं स्तोत्रम् ', ' अप्रगीतमन्त्रसाध्यं शस्त्रम् ' इति तयोर्विवेकः ॥ हेत्वन्तरमाह
+
+' अभिधानं च कर्मवत् ' इति । यया प्रधानकर्म ' अग्निहोत्रं जुहोति ' इति द्वितीयासंयोगेनाभिहितं, तथा  प्रउगं शंसति ' इत्यभिधीयते । अतस्तत्सादृश्यात् प्रधानकर्मत्वम् ।। हेत्वन्तरमाह—
+
+, फलनिर्वृत्तिश्च ' इति । ' स्तुतस्य स्तुतमसि ' ( तै. सं. ३. २. ७. १) इति स्तोत्रानुमन्त्रणमाम्नाय वाक्यशेषे स्तोत्रफलमेवाम्नातम्-' इन्द्रियावन्तो वनामहे धुक्षीमहि प्रजामिषम् ' ( तै. सं. ३ २. ७. २) इति । न तु देवताप्रयुक्तं फलमाम्नातम् । अतो न देवतासंस्कारः किंतु प्रधानकर्मेति स्थितम् । अनेन तु निर्णयेन प्रयोजनं विकृतिषु ऊहाभावः । संस्कारपक्षे तु यस्यां विकृतौ देवतान्तरं
+तत्र तद्वाचकं पदमूहनीयं स्यात् । तन्मा भूदिति प्रधानकर्मत्वमुक्तम् । एतच्च दशमाध्याये सूत्रितं- ' ग्रहाणां देवतान्यत्वे स्तुतशस्त्रयोः कर्मत्वादविकारः स्यात् ' ( जै. सू. १०. ४. ४९) इति । अत्र संग्रहश्लोकौ-
+
+प्रउगं शंसतीत्यादौ गुणतोत प्रधानता ।
+
+दृष्टा देवस्मृतिस्तेन गुणता स्तोत्रशस्त्रयोः ।।
+
+स्मृत्यर्थत्वे स्तौतिशंस्योर्धात्वोः श्रौतार्थबाधनम् ।
+
+तेनादृष्टमुपेत्यापि प्राधान्यं श्रुतये मतम् ( जै. न्या. २. १. ५) इति ।।
+
+अग्निष्टोमे सुत्यादिने, सूर्योदयात् पूर्वं प्रेषितो होता प्रातरनुवाकमनुब्रूयात् । एतच्चैतरेयब्राह्मणे प्रपञ्चितं- देवेभ्यः प्रातर्यावभ्यो होतरनुब्रूहीत्याहाध्वर्युः ' ( ऐ. ब्रा. २.१५) इत्यादि ब्राह्मणम् । तस्मिंश्च प्रातरनुवाके ' अग्निमीळे '  इत्यादिसूक्तमन्तर्भूतम् । तच्च व्याख्यातम् । प्रातःसवने वैश्वदेवग्रहणादूर्ध्वं प्रउगशस्त्रं होत्रा शंसनीयम् । तच्च शस्त्रं ' वायवा याहि ' इत्यादिसप्ततृचात्मकम् । एतच्च ब्राह्मणे ' ग्रहोक्थम् ' ( ऐ.ब्रा. ३.१) इत्यादिखण्डे प्रपञ्चितम् । तथा पञ्चमाध्याये ' स्तोत्रमग्रे शस्त्रात् ' ( आश्व. श्रौ. ५. १०) इत्यादिखण्डे सूत्रितं च । अत्रेयमनुक्रमणिका- वायो वायव्यैन्द्रवायवमैत्रावरुणास्तृचा अश्विना द्वादशाश्विनैन्द्रवैश्वदेवसारस्वतास्तृचाः सप्तैताः प्रउगदेवताः ' इति । अस्यायमर्थः । ' वायवा याहि ' इत्यादिकं नवर्चं सूक्तम् । ' अग्निं नव ' इत्यतो नवशब्दस्यानुवृत्तेः । तत्राद्यस्तृचो वायुदेवताकः । द्वितीय इन्द्रवायुदेवताकः । तृतीयो मित्रावरुणदेवताकः । ' अश्विना ' इत्यादिकं द्वादशर्चं सूक्तम् । तत्राद्यस्तृच आश्विनः । द्वितीय ऐन्द्रः । तृतीयो वैश्वदेवः । चतुर्थः सारस्वतः । तेषु तृचेषु प्रतिपाद्या वाय्वादयः सरस्वन्यन्ताः सप्तसंख्याकाः प्रउगशस्त्रस्य देवता इति । मधुच्छन्दसोऽनुवर्तनात् स एवर्षिः । तथैवानुवृत्त्या गायत्रं छन्दः । वायव्ये तृचे प्रथमा ग्रहस्य ऐन्द्रवायवस्यैका पुरोनुवाक्या । एतच्च ब्राह्मणे समाम्नातं-  वायव्या पूर्वा पुरोनुवाक्यैन्द्रवायव्युत्तरा ' ( ऐ. ब्रा. २. २६) इति । तथा सूत्रितं च-' वायवा याहि दर्शतेन्द्रवायू इमे सुता इत्यनुवाक्ये ( आश्व श्रौ. ५ ५) इति ।।
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+2  
+Vāyu (1–3), Indra and Vāyu (4–6), Mitra and Varuṇa (7–9)  
+Madhuchandas Vaiśvāmitra  
+9 verses: gāyatrī, arranged in tr̥cas  
+This and the following hymn constitute what is later called the Praügaśastra, the  “yoke-pole-tip recitation,” which is the second recited litany in the morning soma pressing. In classical śrauta ritual the śastra consists of seven sets of three verses or tr̥cas. In the recitation each triplet of verses is preceded by an introductory nivid, a  brief declaration of the deities invoked in the recitation. Recitations typically combine  verses from different hymns, or they may require that the form of the R̥gvedic verses be  recast, but in this case the nivids need only be added to produce the recitation. These  two hymns, therefore, are already fit for the classical performance of the soma ritual.  
+As Insler (2002) has shown, the sequence of gods in I.2–3 represents the sequence  of gods who receive cups of soma during the soma-pressing day. The rite reflected  in the hymns was neither a version of the soma ritual represented in the Family  Books of the R̥gveda nor that of the classical ritual, although it comes fairly close  to the latter. Rather, these two hymns represent a transitional period in the develop  
+ment of the soma rite as it moved toward its classical form.  
+In the R̥gvedic rite, Vāyu was the first of the gods to receive the soma and there fore the first tr̥ca of I.2 is dedicated to him. In the classical rite, the recipients of  soma at the Morning Pressing are, for the most part, dual divinities. The first pair  is Indra and Vāyu, to whom our second tr̥ca (vss. 4–6) is dedicated, and the second  pair is Mitra and Varuṇa, addressed in our third tr̥ca (vss. 7–9).  
+In I.3 the first tr̥ca is dedicated to the two Aśvins, who are the third set of dual  divinities at the classical Morning Pressing. In the classical rite there are also morn ing offerings to Indra and to the All Gods. Those gods are mentioned in the next  two tr̥cas (Indra, vss. 4–6; the All Gods, vss. 7–9), but at the time of the composition  of these hymns, these verses probably refer to the midday and evening rites rather  than to the morning offering.  
+In most of the Family Books of the R̥gveda, Indra alone is the principal at the  Midday Pressing, though especially in Maṇḍala III there is evidence that the Maruts  have joined Indra as dedicands, as in the classical rite. The Maruts are not mentioned  in our hymn, however, and were probably not a part of the soma rite for which these  hymns were composed. Although the R̥bhus and Indra were the principal recipients  of soma at the Third Pressing for most of the R̥gvedic period, the R̥bhus are absent  from this hymn, indicating that, as also in the classical rite, they had already all  but disappeared from the soma rite. Rather, in this hymn and in the classical rite,  there is a soma offering to the All Gods in the evening. This association of the All  Gods with the Third Pressing must be fairly old, since the Brāhmaṇa texts refer to  the Third Pressing as vaiśvadevyam “belonging to the All Gods.” The last tr̥ca (vss.  10–12) of I.3 is to Sarasvatī, who does not receive an offering in the Third Pressing  at the classical rite and has only a limited presence in the R̥gveda. However, she  likely did receive soma at the Third Pressing in the period of this transitional rite.  
+For further on this śastra and the order of divinities addressed, see the other  hymns with this structure, I.23 and II.41, as well as I.139 in part. It is not clear why  the śastra has been split into two hymns just in this case.  
+The actual content of the two hymns is quite simple. In I.2 the first two tr̥cas to  Vāyu and Indra and Vāyu respectively announce that the soma has been pressed  and urge the gods to come to our sacrifice. The tr̥ca to Mitra and Varuṇa is slightly  more interesting, in that it mentions the frequently conjoined notions of “insight” (dhī́), “skill” (dákṣa), and “resolve” or “purpose” (krátu), the three elements neces sary to conceive and carry out an action.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Vāyu, etc. (Praügaśastra)
+
+The recipients of the various tṛcas making up these two rather simple hymns are clearly signalled. All three verses making up the first tṛca to Vāyu (vss. 1-3) open with a voc. vāyo; the second tṛca (to Indra and Vāyu, vss. 4-6) opens with the voc. índravāyū, while the next two begin with the famous “Vāyav Indraś ca” construction (on which see Jamison 1988). The pattern is varied in the Mitra and Varuṇa tṛca (7- 9), with the conjoined accusatives mitrám and váruṇaṃ ca opening the first and second pādas of vs. 7, and the dual dvandva mitrā́váruṇā(v) in second position in the next two verses, first as a vocative, then as a nominative.
+
+There appears to be some attempt to create bridges between the tṛcas: verses 3 and 4 both sketch a reversal of the usual ritual model; vss. 6 and 7 both concern our ‘insight’ (dhī́).
+</details>

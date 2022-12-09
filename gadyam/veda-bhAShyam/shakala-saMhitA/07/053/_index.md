@@ -1,0 +1,23 @@
++++
+title = "+053"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+‘प्र द्यावा यज्ञैः ' इति तृचात्मकं विंशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं द्यावापृथिव्यम् । अनुक्रम्यते च --- प्र द्यावा द्यावापृथिव्यम्' इति । चतुर्थेऽहनि वैश्वदेवशस्त्र इदं द्यावापृथिव्यनिविद्धानम् । सूत्रितं च – ' आ देवो यातु प्र द्यावेति वासिष्ठम्' (आश्व. श्रौ. ८. ८) इति । द्यावापृथिव्ये पशौ वपापुरोडाशयोः ‘प्र द्यावा ' इति द्वे ऋचौ याज्ये। सूत्रितं च – प्र द्यावा यज्ञैः पृथिवी नमोभिरिति द्वे ' (आश्व. श्रौ. ३.८) इति ॥
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+53 (569)  
+Heaven and Earth  
+Vasiṣṭha Maitrāvaruṇi  
+3 verses: triṣṭubh  
+Heaven and Earth here figure just as objects of worship, not as physically conceived  entities. Verses 1–2 emphasize their antiquity and the antiquity of the poetic cel ebration of them, while verse 3 asks, as usual, for their gifts.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Heaven and Earth
+</details>

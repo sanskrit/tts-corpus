@@ -1,0 +1,23 @@
++++
+title = "+098"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+‘वैश्वानरस्य' इति तृचं पञ्चमं सूक्तं कुत्सस्यार्षं त्रैष्टुभम् । वैश्वानरगुणकोऽग्निः शुद्धाग्निर्वा देवता । तथा चानुक्रान्तम्- वैश्वानरस्य तृचं वैश्वानरीयम्' इति । व्यूढस्य चतुर्थेऽहन्याग्निमारुते इदं सूक्तं वैश्वानरीयनिविद्धानम् । ‘ व्यूळ्हश्चेत्' इति खण्डे सूत्रितम्- वैश्वानरस्य सुमतौ क ईं व्यक्ताः' ( आश्व. श्रौ. ८. ८) इति ॥
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+98  
+Agni Vaiśvānara  
+Kutsa Āṅgirasa  
+3 verses: triṣṭubh  
+A rather perfunctory and quite brief hymn, with phraseology borrowed from other  hymns. Verse 2 seems to refer to the myth of the Agni’s disappearance.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Agni
+</details>

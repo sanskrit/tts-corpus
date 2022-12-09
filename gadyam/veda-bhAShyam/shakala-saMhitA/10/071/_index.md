@@ -1,0 +1,22 @@
++++
+title = "+071"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+बृहस्पते ' इत्येकादशर्चं तृतीयं सूक्तम् आङ्गिरसस्य बृहस्पतेरार्षम् । नवमी जगती शिष्टा दश त्रिष्टुभः । अनेन सूक्तेनर्षिः परमपुरुषार्थसाधनं परब्रह्मज्ञानं स्तुतवान् । अतस्तद्देवत्यमिदम्। उक्तं हि बृहद्देवतायां - सुज्योतिः परमं ब्रह्म यद्योगात्समुपाश्नुते । तज्ज्ञानमभितुष्टाव सूक्तेनाथ बृहस्पतिः । ( बृहद्दे. ७. १०९ ) इति । अनुक्रान्तं च --- ‘ बृहस्पते बृहस्पतिर्ज्ञानं तुष्टाव नवमी जगती ' इति । सूक्तविनियोगो गतः । देवसुवाँ हविःषु बृहस्पतिर्वाचस्पतिरित्यस्य प्रथमानुवाक्या । सूत्रितं च -----  ‘ बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावदद्भिः ' ( आश्व. श्रौ. ४. ११ ) इति ।
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+71 (897)  
+Wisdom  
+Brhaspati ̥ Āṅgirasa  
+11 verses: triṣṭubh, except jagatī 9  
+This hymn describes the mastery of sacred speech (vā́c), which is essential for the  priests performing the soma rites. This mastery binds the priests together, establish ing their “companionship” (vs. 2). The degree of mastery distinguishes one priest  from another (vss. 4–5, 7–8), while the inability or unwillingness of some priests to  employ sacred speech in performance marks them and their mastery as useless (vss.  6, 9). Using the language of horseracing, the poet speaks of the “competition” or  “competitions” (vā́jina, vss. 5, 10) in which priests succeed through their mastery of  speech. These “competitions” could be contests to determine which priests can best  compose hymns or recite hymns and therefore which ones will be chosen to partici  
+pate in a ritual performance. That kind of contest occurred and is likely described  in verse 10ab. It is also true that the poem emphasizes the composer of the hymns: it  begins with a reference to Br̥haspati, the “Lord of the Sacred Formulation,” and in  the concluding list of priests, the brahmán, the “formulator,” is the only one men  
+tioned by name. But the “competitions” could also be the sacrifices themselves,  which strive against one another for the attention and favor of the gods. If so,  sacred speech is not contained just in the hymns, but constitutes all of the speech  in the rite. This broader conception of sacred speech is implied in the reference to  the “seven husky-voiced singers” (3d), who are likely the “seven Hotars,” the seven  priests of the sacrifice (cf. II.1.2), and the reference to four types of priests in the  last verse.  
+The hymn begins by remembering the ancient seers (cf. vs. 3b, ŕ̥ṣi), who first  found the “hidden name.” As Schmidt (1968: 124) suggests, the reference may  be to the ancient seers who found the hidden name of the cows and so were able  to release the imprisoned cows from the Vala cave (cf. X.68.7). Their concerted  priestly action and effective priestly speech is then a model for contemporary  priests, to whom the poet shifts in verse 2. These priests have also created the  speech of the sacrifice, and their knowledge and their ability to articulate that  speech bind them together as colleagues. Because sacred speech belongs to them,  it carries their “mark” or “brand” (lakṣmī́, 2d). In verse 3 they found this speech by the sacrifice, for it was in the words of the ancient seers, who were their ances tors and forerunners. They have brought that speech into the present and dis persed it throughout the sacrifice. Not everyone who would recite or compose  is capable of doing so (vs. 4). Or, as verse 5a puts it, there are those who are  “stiff and swollen in their companionship.” This description is open to various  interpretations, but “stiff and swollen” could apply to a corpse and here meta phorically describe someone who is useless, similar to the American expression  “the guy’s a stiff.” Their talent is unproductive, “no milk-cow,” and their words  are sterile, bringing no “fruit or flower” (5d). Likewise, the uncooperative priest  betrays the speech he perceives because only the priests together can perform the  rite (vss. 6, 9). In verse 9cd the poet compares the speech in the sacrifice to the  warp-threads on which the sacrifice is woven. But someone who does not use his  knowledge and ability in the rite offers nothing more substantial than a stream  of water and produces nothing worthwhile.  
+This hymn and its concentration on vā́c invites comparison with the famous  self-praise pronounced by the goddess Vāc herself (X.125), though the tone of the  two hymns is very different.
+</details>

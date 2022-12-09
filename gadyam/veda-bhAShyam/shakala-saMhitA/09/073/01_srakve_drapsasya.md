@@ -1,0 +1,285 @@
++++
+title = "001"
+devataa = "पवमानः सोमः"
+RShiH = "पवित्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>Thomson & Solcum</summary>
+
+स्र꣡क्वे द्रप्स꣡स्य ध꣡मतः स꣡म् अस्वरन्न्  
+ऋत꣡स्य यो꣡ना स꣡म् अरन्त ना꣡भयः  
+त्री꣡न् स꣡ मूर्ध्नो꣡ अ꣡सुरश् चक्र आर꣡भे  
+सत्य꣡स्य ना꣡वः सुकृ꣡तम् अपीपरन्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+#### Strata
+Normal
+
+#### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+#### Morph
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhámataḥ ← √dhamⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+drapsásya ← drapsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+srákve ← srákva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aranta ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+nā́bhayaḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ārábhe ← √rabh- (root)  
+{case:DAT, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mūrdhnáḥ ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+apīparan ← √pr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nā́vaḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+satyásya ← satyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sukŕ̥tam ← sukŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्रक्वे॑ । द्र॒प्सस्य॑ । धम॑तः । सम् । अ॒स्व॒र॒न् । ऋ॒तस्य॑ । योना॑ । सम् । अ॒र॒न्त॒ । नाभ॑यः ।  
+त्रीन् । सः । मू॒र्ध्नः । असु॑रः । च॒क्रे॒ । आ॒ऽरभे॑ । स॒त्यस्य॑ । नावः॑ । सु॒ऽकृत॑म् । अ॒पी॒प॒र॒न् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *srakve* ← *srakva*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *drapsasya* ← *drapsa*
+- \[noun\], genitive, singular, masculine
+- “drop; banner.”
+------------------------------------------------------------------------
+- *dhamataḥ* ← *dham*
+- \[verb noun\], genitive, singular
+- “heat; blow; fan; blow; ignite; blow; inflate.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *asvarann* ← *asvaran* ← *svar*
+- \[verb\], plural, Imperfect
+- “sing.”
+------------------------------------------------------------------------
+- *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *yonā* ← *yoni*
+- \[noun\], locative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *aranta* ← *ṛch*
+- \[verb\], plural, Aorist inj. (proh.)
+- “enter (a state); travel; shoot; send; hit; originate; get; raise;
+    begin; harm.”
+------------------------------------------------------------------------
+- *nābhayaḥ* ← *nābhi*
+- \[noun\], nominative, plural, feminine
+- “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
+    \[word\]; friendship; center.”
+------------------------------------------------------------------------
+- *trīn* ← *tri*
+- \[noun\], accusative, plural, masculine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *mūrdhno* ← *mūrdhnaḥ* ← *mūrdhan*
+- \[noun\], accusative, plural, masculine
+- “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
+------------------------------------------------------------------------
+- *asuraś* ← *asuraḥ* ← *asura*
+- \[noun\], nominative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *cakra* ← *cakre* ← *kṛ*
+- \[verb\], singular, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *ārabhe* ← *ārabh* ← *√rabh*
+- \[verb noun\]
+- “begin; begin; undertake; do; take.”
+------------------------------------------------------------------------
+- *satyasya* ← *satya*
+- \[noun\], genitive, singular, neuter
+- “truth; oath; satya \[word\]; promise.”
+------------------------------------------------------------------------
+- *nāvaḥ* ← *nau*
+- \[noun\], nominative, plural, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *sukṛtam* ← *sukṛt*
+- \[noun\], accusative, singular, masculine
+- “devout; virtuous.”
+------------------------------------------------------------------------
+- *apīparan* ← *pṛ*
+- \[verb\], plural, Redupl. Aorist (Ind.)
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**स्रक्वे** यज्ञस्य हनुस्थानीये। स्रक्व ओष्ठप्रान्तो हनुरुच्यते । ‘हनुरधिषवणफलकः' इत्याम्नानात् हनुस्थानीये अधिषवणफलके **धमतः** अभिषूयमाणस्य **द्रप्सस्य** सोमस्यांशवः **समस्वरन्** संगच्छन्ते । समशब्दयन् वा । **ऋतस्य** सत्यभूतस्य यज्ञस्य **योना** योनावुत्पत्तिस्थाने **नाभयः** सोमरसाः **समरन्त** संगच्छन्ते । अर्तेः ‘समो गमि°' इत्यादिनात्मनेपदम् ।' सर्तिशास्त्यर्तिभ्यश्च । इति च्लेरङ्। अथ **असुरः** बलवान् सर्वेषां प्रीणनात् प्राणदाता वा **सः** सोमः **मूर्ध्नः** समुच्छ्रितान् **त्रीन्** लोकान् **आरभे** आरम्भणाय मनुष्यदेवादीनां संचरणाय करोति । किंच **सत्यस्य** सत्यभूतस्य सोमस्य **नावः** नौका इव स्थिताश्चतस्रः स्थाल्यः। आदित्याग्रयणोक्थ्यध्रुवस्थाल्य इति । ताः स्थाल्यः **सुकृतं** सुष्ठु कर्माणि कुर्वन्तं यजमानम् **अपीपरन्** अभिमतदानेन पूजयन्ति वा। पारयतेर्लुङि चङि सन्वद्भावाभ्यासेत्वदीर्घाः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+### English translation:
+
+“(The streams) of the dripping effused (**Soma**) sound together on the jaw (of the sacrifice), the Soma-juices flow together to the plural ce of sacrifice. The powerful (Soma) has made the three exalted worlds for the use (of men and gods); the ships of the truthful (Soma) satisfy the pious worshipper.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+On the jaw of the sacrifice: srave = the plural nk of the Soma press, adhiṣavaṇa **phalaka**, which is the jaw of the sacrifice; the ships: i.e., the four pots for the **āditya**, **āgrayaṇa**, **ukthya** and **dhruva** libations.
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+In the jaw (of the pressing stones) while the droplet was blowing its blast,  they sounded in unison. The ties of lineage have joined together in the  womb of truth.  
+The lord [=Soma] has made his three heads to be seized. The boats of  the trusty one [=Soma] have brought the good (ritual) performer  
+across to the other shore.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+As noted in the published introduction, I consider it significant that the repeated phrase sám asvaran never has an overt subject, allowing for double ref.: the soma streams roaring as they cross the filter and the priest-poets accompanying this journey with hymns. I therefore would reject the various subjects supplied here by various tr.
+
+I interpr. drapsásya dhámataḥ as a species of gen. absol., though it could be dependent on one of the implicit subjects of the verb, namely the soma streams.
+
+I am not entirely sure what b is telling us. In the immediately preceding hymn (IX.72.6) as well as elsewhere in IX, the “womb of truth” (ṛtásya yóni-) is the place where the soma and the milk mix; the verb sám aranta “have joined together” invites us to interpr. this as expressing that mixture here as well. If so, then what are the “ties of lineage” (nā́bhayaḥ)? I would tentatively suggest that it refers to the ultimate kinship of cow and bull (that is, of milk and soma). This may be supported by a passage in the next hymn, IX.74.4, where soma, after this mixture, is referred to as “the navel of truth” (ṛtásya nā́bhiḥ). It is also possible that it’s a reference to the unexpressed double subject that “sounded in unison” in the preceding pāda - that is, the roaring soma streams and the singing poets. Their “ties of lineage” would be based on their joint vocalization, and they meet and join together on the part of the ritual ground where the soma is readied for offering to the gods. Others of course have different opinions: for Geldner it’s gods and men, for Lüders (234-35, fld. by Renou) the heavenly and earthly soma.
+
+In c, acdg. to Geldner and Renou, the ásura created (cakre) for himself three heads, either (Geldner; see also WEHale 79) so he could seize the soma (probably; see Geldner’s n. 1 cd) or (Renou) so he could be more easily seized. By contrast, I interpr. cakra ārábhe as a periphrastic caus.: “made/caused his three heads to be seized,” with the ásura- = Soma, as also in the next hymn, IX.74.7; note also his asuryàṃ várṇam in nearby IX.71.2. It would help, of course, to know what the “three heads” are, but I suggest that since mūrdhán- is often a ‘peak’, it may be the same as Soma’s three backs (see the bahuvr. tripṛṣṭḥá- twice nearby in IX.71.7 and 75.3). As for these expressions of triplication, see the speculations ad IX.70.8. Whatever the identity of the heads, I think the point is that, after the various stages of preparation, Soma is making himself available for ritual use, allowing himself to be “seized” and distributed into the cups. This interpr. is supported by 3d, which contains the acc. inf. ārábham, matching ārábhe here.
+
+In d note satyásya opening the pāda, which contrasts with ṛtásya in the same position in b. Although I am given pause by IX.89.2 r̥tásya nā́vam (like our satyásya nā́vaḥ), I think the two genitives must be interpr. differently. I suggest that it is Soma who is satyá- here: ‘trusty’ as in the published translation, or even ‘really present’, referring to the prepared soma on the ritual ground. Sāyaṇa’s notion that the boats are the soma cups is quite plausible, though Geldner (n. 1d) prefers the hymns.
+</details>
+
+<details><summary>Griffith</summary>
+
+THEY from the spouting drop have sounded at the rim: naves speed together to the place of sacrifice.  
+     That Asura hath formed, to seize, three lofty heights. The ships of truth have borne the pious man across.
+</details>
+
+<details><summary>Geldner</summary>
+
+Im Gebiß der Steine brausten zusammen die Töne des blasenden Tropfens; an der Wiege der Opferordnung haben die Geschlechter einen Bund geschlossen. Drei Häupter nahm der Asura an, um ihn zu fassen. Die Schiffe der Wahrheit haben den Frommen hinübergesetzt.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Im Schlund des Tropfens, welcher gärt, in Opfers Schooss vereinten strömend jetzt verwandte Tränke sich; Drei Häupter machte zum Ergreifen sich der Gott, hinüber fuhr der Wahrheit Schiff den emsigen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+В челюсти (давильного камня) дружно зазвучали (мелодии) набухшей капли.  
+В лоне закона соединились проявления родства.  
+Этот Асура создал себе три головы, чтобы (их) хватали.  
+Челны истины перевезли прекрасно действующего.
+</details>
+
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- पवित्रः
+- जगती
+- निषादः
+</details>
+
+<details><summary>आर्यमुनि - विषयः</summary>
+
+अब परमात्मा यज्ञकर्म का उपदेश करते हैं।
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सत्यस्य नावः) सच्चाई की नौकारूप उक्त यज्ञ (सुकृतम्) शोभन कर्मवाले को (अपीपरन्) ऐश्वर्यों से परिपूर्ण करते हैं। (स सोमः) उक्त परमात्मा ने (मूर्ध्नः) सर्वोपरि (त्रीन्) तीन लोकों के (आरभे) आरम्भ के लिये (असुरः चक्रे) असुरों को बनाया और (द्रप्सस्य) कर्मयज्ञ के (स्रक्वे) मूर्धास्थानी (धमतः) प्रतिदिन कर्म करने में तत्पर कर्मयोगियों को बनाया। उक्त कर्मयोगी (ऋतस्य योना) यज्ञ के कारणरूप कर्म में (समस्वरन्) चेष्टा करते हुए (समरन्तः) सांसारिक यात्रा करते हैं। उक्त कर्मयोगियों को परमात्मा ने (नाभयः) नाभिस्थानीय बनाया॥१॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में असुरों के तीन लोकों का वर्णन किया है और वे तीन लोक काम, कोध और लोभ हैं। इसी अभिप्राय से गीता में यह कहा है कि “त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः। कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥” और इनसे विपरीत कर्मयोगियों को यज्ञ की नाभि और यज्ञ का मुखरूप वर्णन किया है ॥१॥
+</details>
+
+<details><summary>आर्यमुनि (सं) - विषयः</summary>
+
+अथ परमात्मना यज्ञकर्मोपदिश्यते।
+</details>
+
+<details><summary>आर्यमुनि  (सं)- पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सत्यस्य नावः) सत्यस्य नौकारूपा उक्ता यज्ञाः (सुकृतम्) शोभनकर्माणं जनं (अपीपरन्) ऐश्वर्यैः परिपूरयन्ति। (स सोमः) उक्तपरमात्मना (मूर्ध्नः) सर्वोपरि (त्रीन्) त्रयाणां लोकानां (आरभे) आरम्भाय (असुरः चक्रे) असुरा निर्मिताः। अथ च (द्रप्सस्य) कर्मयज्ञस्य (स्रक्वे) शिरःस्थानीयाः (धमतः) प्रतिदिनं शुभकर्मणि तत्पराः कर्मयोगिनो निर्मिताः। पूर्वोक्ताः कर्मयोगिनः (ऋतस्य योना) यज्ञस्य कारणरूपे कर्मणि (समस्वरन्) चेष्टां कुर्वन्तः (समरन्तः) सांसारिकीं यात्रां कुर्वन्ति। उक्ताः कर्मयोगिनः परमात्मना (नाभयः) नाभिस्थानीयाः कृताः॥१॥
+</details>

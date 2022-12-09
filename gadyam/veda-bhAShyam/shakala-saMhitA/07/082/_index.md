@@ -1,0 +1,25 @@
++++
+title = "+082"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+‘इन्द्रावरुणा' इति दशर्चं द्वादशं सूक्तं वसिष्ठस्यार्षं जागतम् । इदमादीनि चत्वारि सूक्तानीन्द्रावरुणदेवतानि । तथा चानुक्रान्तम् - ‘इन्द्रावरुणा, दशैन्द्रावरुणं ह जागतं तु' इति । तृतीये सवन उक्थ्ये प्रशास्तुः शस्त्र एतत्सूक्तम् । सूत्रितं च -' इन्द्रावरुणा युवमा वां राजानौ' (आश्व. श्रौ. ६. १) इति ॥
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+82 (598)  
+Indra and Varuṇa  
+Vasiṣṭha Maitrāvaruṇi  
+10 verses: jagatī  
+This hymn is structured into two sections, with the second embedded in the first.  The first is an invocation to Indra and Varuṇa to come to the rite and consists of  verses 1 and 7–10. The second section and the heart of the hymn are verses 2–6,  which describe the two sides of kingship that the two gods represent.  
+Indra represents the king ruling during times of migration and conflict; Varuṇa  represents the king ruling during times of settlement, ideally times of peace. In the984 VII.82  
+political structure of the Vedic period, different men may have been kings during  these two times or, as we believe more likely, the same king may have exercised these  complementary functions at different times of the year.  
+In verse 2 the poet calls one of the gods samrā́j “sovereign king” and the other  svarā́j “independent king.” While both terms can be used of both Indra and Varuṇa  (cf. Schlerath 1960:  132–35), samrā́j is used especially frequently of Varuṇa and  the Ādityas (cf. I.25.10; V.63.3, 85.1; VIII.25.7–8, 29.9, 42.1; X.63.5) and svarā́j frequently of Indra (cf. I.61.9; III.45.5; VIII.12.14, 46.28, 61.2, 69.17, 93.11).  Therefore, despite Schlerath’s doubts, the “sovereign king” here is likely Varuṇa  and the “independent king” Indra. Further, at least in this verse, the contrasting  titles likely reflect the distribution of kingly functions between the two gods. Since  the samrā́j governed the peoples and their divisions, he might be connected with  times of settlement. Since the svarā́j was independent of other authority, he might  be associated with times of conflict between separate clans, peoples, and rulers.  
+However the relation between svarā́j and samrā́j is to be understood, the poet  insists on the necessity of both kinds of king and both sides of kingship. Indeed,  after contrasting the two gods in verse 2ab, the poet emphasizes their similarity  (2cd) and their united action in ordering the world (3ab). In verse 3cd the actions of  the ritual are blended with the gods’ cosmic functions. The two gods share Soma— here both the ritual drink and the god—who inspires their action and who therefore  metonymically possesses the transforming power, the “cunning” (māyā́), by which  they made the waters swell. The image of swelling waters is then metaphorically  carried over to the hymns, which should likewise swell.  
+In verse 4 the poet returns to the two periods associated with the two sides of king ship: in 4a the poet and his people are moving in chariots at the time of conflict and  migration; in 4b they are seated at the beginning of the period of settlement. But here,  unlike verse 2ab, the poet does not explicitly distinguish between the two gods. Both  gods are summoned at both times. In verse 5cd, however, he reintroduces their oppo sition by connecting Varuṇa with settlement and Indra with movement. This alterna tion between conjunctions and disjunctions underscores the mutual dependence of  the different sides of kingship and the poet’s insistence that both gods are great.  
+Verse 6 continues the contrast between Indra and Varuṇa in a fashion similar to  verse 2, although the actions of the gods in 6cd are not entirely clear. Assuming that  6c refers to the action of Indra and possibly to the destruction of Vr̥tra and similar  “obstacles,” then 6d describes the action of Varuṇa. As Renou (EVP VII: 83) notes,  the verb prá √vR̥in 6d is rare, but appears to mean “ward off” the attack of an enemy  (cf. IX.21.2). Unlike the aggressive action of Indra in 6c, the action of Varuṇa is  thus defensive. Perhaps he protects the individual settlements during times of peace  from incursions from enemies who might threaten them. The two gods thus have  complementary functions in their different contexts and the similarity between  them is reflected in the singular ójas “power” (6b) that both possess.  
+In verse 1 the poet is especially aware that his is not the most elaborate sacrifice  offered, but he asks the gods to ignore what he sees as the overly showy rites of his competitors and to come to his rite. While it may be plainer than other rites, it does  not have the evil intent behind it that those rites have. Returning to this theme in  the latter part of the hymn, verses 7–10, the poet pleads for the attention of Indra  and Varuṇa. In verse 9 he recalls the competition for the gods’ favor and again asks  the gods to hear his words, for his sacrifice will please the gods more than the words  and rites of others.
+</details>

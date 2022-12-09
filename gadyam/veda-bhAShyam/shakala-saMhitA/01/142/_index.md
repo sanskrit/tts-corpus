@@ -1,0 +1,23 @@
++++
+title = "+142"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+समिद्धः ' इति त्रयोदशर्चं तृतीयं सूक्तमानुष्टुभम् । प्रथमायाः समिन्नामकोऽग्निर्देवता समिद्धोऽग्निः । द्वितीयादीनां तनूनपान्नराशंस इळो बर्हिर्देवीर्द्वार उषासानक्ता दैव्यौ होतारौ प्रचेतसौ तिस्रो देव्यः सरस्वतीळाभारत्यस्त्वष्टा वनस्पतिः स्वाहाकृतिरित्येताः क्रमेण देवताः । अन्त्याया इन्द्रः । तिस्रो देव्य इत्यस्य विवरणं सरस्वतीळाभारत्य इति । अत्रानुक्रमणिका - समिद्ध आप्रिय आनुष्टभमन्त्यैन्द्री' इति ।। अत्र इध्मतनूनपादादिभिर्यज्ञावयववाचिभिर्यज्ञ एवोच्यते । अतः स एव देवतेति कात्थक्यस्य मतम् । अग्निरेव समिदादिभिरुच्यते । अतः स एव देवतेति शाकपूणेर्मतम् । निरुक्ते किंदेवताः प्रयाजानुयाजा इति छन्दोदेवता इत्यादिपक्षान्तरं बहुधा प्रदर्श्य तदर्थे ब्राह्मणादि चोदाहृत्य इतरे पक्षी अर्थवादा आग्नेया एवेति सिद्धान्तितम् , ' अथ किंदेवताः प्रयाजानुयाजाः ' ( निरु. ८ . २१) इत्यादिना ॥ पशौ अङ्गिरोगोत्रोत्पन्नानाम् एतदाप्रीसूक्तम् । 'एकादश प्रयाजाः ' इति खण्डे सूत्रितं-’ समिद्धो अद्येति सर्वेषां यथऋषि बा' (आश्व. श्रौ. ३. २) इति । अत्र यथऋषिग्रहणात् ॥ अप्रीसूक्तानि त्रिविधानि । तत्र वासिष्ठात्रेयवाध्र्यश्वगार्त्समदानि चत्वारि नराशंसवन्ति । मैधातिथदैर्घतमसप्रैषिकाणि नराशंसतनूनपादुभयवन्ति । इतराणि तनूनपात्वन्तीति । तत्रैतत्सूक्तं दैर्घतमसत्वादुभयवत् ॥
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+142  
+Āprī (1–12), Indra (13)  
+Dīrghatamas Aucathya  
+13 verses: anuṣṭubh  
+Unlike Dīrghatamas’s dense and dexterous Agni hymns among which this hymn is  embedded, this Āprī hymn not only follows the set pattern of that genre, but, using  the standard Āprī diction and tropes (for which see the introduction to I.13, as well  as the general introduction, pp. 33, 63), does so without any perceptible tricks or  poetic exuberance. Its only deviation from the norm is having thirteen verses rather  than the usual eleven or twelve, by including both Tanūnapāt (vs. 2) and Narāśaṃsa  (vs. 3) and by having two svāhā verses at the end (12–13). Dīrghatamas (if he is  indeed the poet) seems to be treading water here.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Āprī
+</details>

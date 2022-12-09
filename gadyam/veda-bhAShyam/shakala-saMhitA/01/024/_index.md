@@ -1,0 +1,24 @@
++++
+title = "+024"
+
++++
+
+<details><summary>सायण-भाष्यम्</summary>
+
+प्रथममण्डलस्य षष्ठे अनुवाके सप्त सूक्तानि । तत्र ‘कस्य नूनम्' इति पञ्चदशर्चं प्रथमं सूक्तम् । अजीगर्तपुत्रस्य शुनःशेपस्य आर्षं त्रैष्टुभम् । अभि त्वा देव' इति तृचो गायत्रः । आद्याया अनिरुक्तत्वात् प्रजापतिर्देवता । ‘अग्नेर्वयम्' इत्यस्य अग्निः । ‘अभि त्वा देव' इत्यस्य तृचस्य सविता । ‘भगभक्तस्य' इत्येषा भगदेवताका वा । शेष वारुण्यः । तथा च अनुक्रान्तं- कस्य पञ्चोनाजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातो वारुणं तु त्रैष्टुभमादौ काय्याग्नेय्यौ सावित्रस्तृचो गायत्रोऽस्यान्त्या भागी वा ' इति । राजसूये अभिषेचनीयेऽहनि मरुत्वतीये परिसमाप्ते सति एतदादिकं सूक्तसप्तकम् अभिषिक्तस्य पुत्रादिभिः परिवृतस्य राज्ञः पुरस्तात् होत्राख्यातव्यम् । तथा च सूत्रेऽभिहितम्-’संस्थिते मरुत्वतीये दक्षिणत आहवनीयस्य हिरण्यकशिपावासीनोऽभिषिक्ताय पुत्रामात्यपरिवृताय राज्ञे शौनःशेपमाचक्षीत ' (  आश्व. श्रौ. ९.३) इति । ब्राह्मणं च भवति-' तदेतत्परऋक्शतगाथं शौनःशेपमाख्यानं तद्धोता राज्ञेऽभिषिक्तायाचष्टे हिरण्यकशिपावासीन आचष्टे हिरण्यकशिपावासीनः प्रतिगृणाति ' ( ऐ. ब्रा. ७. १८) इति ।।
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+24  
+Agni, Savitar, and Varuṇa  
+Śunaḥśepa Ājīgarti  
+15 verses: triṣṭubh 1–2, 6–15; gāyatrī 3–5  
+This hymn consists of three sections in alternating meters, with each section  devoted to a different god. The first two verses in triṣṭubh invoke Agni, then verses  3–5 in gāyatrī address Savitar, and finally the remainder of the hymn, once more  in triṣṭubh, is dedicated to Varuṇa. Despite this variation the hymn is a coherent  composition and not a composite of three hymns wielded together (cf. Oldenberg  1888: 226 n.). Formal evidence for its unity is that Aditi, the goddess who represents  Innocence or Guiltlessness, appears in verses 1 and 2 and then again in the last  verse, verse 15, creating a ring.  
+Apparently the poet and his people have been afflicted in some way. In the later  Veda dropsy is associated with Varuṇa, and so it could be this or another disease  that troubles the sacrificers. The poet believes that the cause of their affliction is that  Varuṇa is angry with them for some offense they have committed (cf. vs. 11) and  therefore has “bound” them in the bonds of misery.  
+The first god invoked is Agni, whose presence introduces the ritual that  addresses the plight of the sacrificers. The poet already signals the purpose of  his hymn and rite by asking which god will return his people to Aditi, to the  “Guiltlessness” that the goddess embodies. Aditi is the mother of the Ādityas, and  therefore reference to her leads to mention of the poet’s own mother and father.  The poet implies that because of some offense he might die before his father and  mother. That would be tragic and unnatural, since children should not predecease  their parents.  
+There follow the three verses to Savitar, which also mention the god Bhaga  “Fortune.” Both Savitar and Bhaga are Ādityas, so the poet is still moving toward  Varuṇa, the greatest of the Ādityas. In verse 3 the poet asks Savitar for a “por tion” (bhāgá) of the wealth that Savitar can bring, and this leads in verse 4 to  mention of the god Bhaga. In verse 4 the priest performing the rite appears to  embody Bhaga because he attains adveṣáḥ “freedom from hostility.” This “hostil ity” represents everything that stands in the way of the life and prosperity of the  poet, but it also prefigures the anger of Varuṇa, from which the poet hopes for  release. The presence of Savitar, who is associated with night, might also suggest  
+
+that the rite for which the hymn was composed took place in the evening. In verse  10 also the poet refers to the constellation of Ursa Major and to the moon. But  Varuṇa’s rule is not restricted to the night, since the poet also says that Varuṇa  creates the path for the sun (vs. 8). In verse 7 too the crest of the nyāgrodha or  banyan tree, which sends down aerial roots, may refer to the sun. This would  explain the description of these aerial roots as “beacons” that take root within  humans as the light of inspiration (7c). In verse 12a the rule of Varuṇa over both  night and day is reflected in the truth spoken to the poet at night and by day. It is  a truth toward which the poet’s own intuition—perhaps that light received from  Varuṇa—has struggled (12b).  
+However, the poet’s concern is not as much with the cosmic roles of Varuṇa as  it is with the bondage Varuṇa has inflicted on the poet and his people. The poet  looks back to Śunaḥśepa as an example of someone who was bound and then  released by Varuṇa. He even merges his own bonds and the bonds of Śunaḥśepa: in  13d the poet’s plea to Varuṇa to “release the fetters” refers to Śunaḥśepa’s bonds  and to the present bonds that afflict him. Once free of those bonds, the poet will  be restored to guiltlessness, under the protection of the commandment of Varuṇa  (vs. 15).
+</details>
